@@ -1,6 +1,4 @@
-# FINRAExercise
-
-A server side restful API of upload file exercise.
+Implement RESTFUL API use spring-boot
 
 Get Method  retrieve all files <br />
 Post Method upload file <br />
